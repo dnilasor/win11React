@@ -5,4 +5,3 @@ services:
     env: docker
     repo: https://github.com/dnilasor/win11React
     plan: free
-    healthCheckPath: /
