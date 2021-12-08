@@ -4,4 +4,4 @@ services:
     name: win11React
     env: docker
     repo: https://github.com/dnilasor/win11React
-    plan: free
+    plan: starter
